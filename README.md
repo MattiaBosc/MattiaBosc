@@ -9,7 +9,6 @@ Curious and multidisciplinary mind passionate about **cybersecurity, internation
 - 🎓 Currently completing another **Master in International Business and Management** (KU Leuven)  
 - 🔐 Passionate about **cybersecurity, privacy, and cryptography**, with expertise in **software security best practices, secure development lifecycle, and security by design**  
 - 💼 Interested in **risk management, IT governance, compliance, and consulting**  
-- 💻 Skilled in **Python, JavaScript, SQL, Bash, C, HTML, CSS, Scala**, with experience in **Linux, Windows, macOS, Docker, Arduino, and Jupyter Notebook**  
 - 🎶 Harpsichord player & music history enthusiast  
 
 ---
